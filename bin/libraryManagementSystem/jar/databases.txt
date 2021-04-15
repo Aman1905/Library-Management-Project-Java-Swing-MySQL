@@ -1,0 +1,9 @@
+create table book(book_id varchar(10), name varchar(40), isbn varchar(20), publisher varchar(30), edition varchar(10), price varchar(10), pages varchar(10));
+
+create table student(student_id varchar(10), name varchar(25), father varchar(25), course varchar(10), branch varchar(10), year varchar(10), semester varchar(10));
+
+create table issueBook(book_id varchar(10), student_id varchar(10), bname varchar(40), sname varchar(40), course varchar(20), branch varchar(10), dateOfIssue DATE);
+
+create table returnBook(book_id varchar(10), student_id varchar(10), bname varchar(40), sname varchar(40),course varchar(20), branch varchar(10), dateOfIssue varchar(30), dateOfReturn varchar(30));
+
+create table account(username varchar(20), name varchar(25), password varchar(25), sec_q varchar(25), sec_ans varchar(25));

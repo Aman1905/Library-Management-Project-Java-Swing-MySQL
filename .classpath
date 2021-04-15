@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="annotationpath" value="/Library Management System/src/libraryManagementSystem/jar/jcalendar-tz-1.3.3-4.jar"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/org.eclipse.osgi_3.16.0.v20200828-0759.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/org.eclipse.osgi_3.16.0.v20200828-0759.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/org.eclipse.core.commands_3.9.700.v20191217-1850.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/org.eclipse.core.commands_3.9.700.v20191217-1850.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/org.eclipse.equinox.common_3.13.0.v20200828-1034.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/org.eclipse.equinox.common_3.13.0.v20200828-1034.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/org.eclipse.equinox.registry_3.9.0.v20200625-1425.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/org.eclipse.equinox.registry_3.9.0.v20200625-1425.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/org.eclipse.core.runtime_3.19.0.v20200724-1004.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/org.eclipse.core.runtime_3.19.0.v20200724-1004.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/org.eclipse.text_3.10.300.v20200807-0831.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/org.eclipse.text_3.10.300.v20200807-0831.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.115.0.v20200831-1002.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.115.0.v20200831-1002.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/org.eclipse.jface_3.21.0.v20200821-1458.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/org.eclipse.jface_3.21.0.v20200821-1458.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/org.eclipse.jface.text_3.16.400.v20200807-0831.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/org.eclipse.jface.text_3.16.400.v20200807-0831.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/org.eclipse.ui.workbench_3.120.0.v20200829-1411.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/org.eclipse.ui.workbench_3.120.0.v20200829-1411.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/com.ibm.icu_67.1.0.v20200706-1749.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/com.ibm.icu_67.1.0.v20200706-1749.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/.p2/pool/plugins/org.eclipse.ui.forms_3.10.0.v20200727-0948.jar" sourcepath="C:/Users/hp/.p2/pool/plugins/org.eclipse.ui.forms_3.10.0.v20200727-0948.jar"/>
+	<classpathentry kind="lib" path="D:/mysql-connector-java-8.0.23/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/Library Management System/src/libraryManagementSystem/jar/jcalendar-tz-1.3.3-4.jar" sourcepath="src/libraryManagementSystem/jar/jcalendar-tz-1.3.3-4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/eclipse-workspace/Library Management System/src/libraryManagementSystem/jar/rs2xml.jar" sourcepath="src/libraryManagementSystem/jar/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
