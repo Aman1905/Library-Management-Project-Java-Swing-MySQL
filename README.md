@@ -1,17 +1,17 @@
 # Library-Management-Project-Java-Swing-MySQL
 
-## The aim of this project is to develop a system that can handle and manage the activities involved in a library in an efficient and reliable way. Less managing personnel and easy maintenance of database.
-	Develop a system that can replace the manual library managing system.
+## The aim of this project is to 
+1.	Develop a system that can replace the manual library managing system.
 
-	Develop a database which stores user details and book details and book details.
+2.	Develop a database which stores user details and book details and book details.
 
-	Give reliable search facility for the users
+3.	Give reliable search facility for the users
 
-	Administrator or librarian should have logins
+4.  Administrator or librarian should have logins
 
-	Create an easy to understand user friendly environment
+5.	Create an easy to understand user friendly environment
 
-	Attractive user interfaces to navigate through the system for the users.
+6.	Attractive user interfaces to navigate through the system for the users.
 
 ### To access this project :-
 1. Clone the repo in your local machine
